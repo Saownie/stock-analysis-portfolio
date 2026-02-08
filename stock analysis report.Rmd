@@ -1,0 +1,19 @@
+---
+title: "Algorithmic Portfolio Optimization: Finding the Efficient Frontier"
+subtitle: "Monte Carlo Simulation Analysis (N=5,000)"
+author: "Sabbir Saown | Quantitative Analyst"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    theme: flatly
+    toc: true
+    toc_float: true
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+library(tidyquant)
+library(tidyverse)
+library(plotly)
+library(knitr)
