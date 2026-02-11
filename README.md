@@ -13,9 +13,6 @@ Engineered with a **Reactive Data Pipeline**, it integrates **Stochastic Modelin
 
 ---
 
-## 📸 Terminal Preview
-
-![Dashboard Screenshot](https://via.placeholder.com/800x450/1a1a1a/2ecc71?text=Obsidian+Analytics+Dashboard+Preview)
 
 
 ---
